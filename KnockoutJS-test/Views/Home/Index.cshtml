@@ -1,0 +1,13 @@
+﻿@model KnockoutJS_test.Controllers.DataObject
+
+@{
+    ViewBag.Title = "Index";
+}
+
+@{ Response.Write($"<script>var message2 = '{Model.Timestamp}'</script>");}
+
+<h2>Index</h2>
+
+<p>Message: <strong data-bind="text: message"></strong></p>
+<p>Message2: <strong data-bind="text: message2"></strong></p>
+
