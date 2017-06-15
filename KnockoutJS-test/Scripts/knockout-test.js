@@ -1,6 +1,14 @@
 ﻿function AppViewModel() {
-    this.message = "Hello World!";
+       
+    var self = this;
+    this.message = ko.observable("Test");
     this.message2 = message2;
-        }
 
-        ko.applyBindings(new AppViewModel());
+    $.get("/api/api/", function (data) {
+        
+        self.message(data);
+    });   
+
+}
+
+ko.applyBindings(new AppViewModel());

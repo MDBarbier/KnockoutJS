@@ -45,3 +45,11 @@ D:\LocalCode\mattUtility\KnockoutJS-test\bin\System.Web.Mvc.xml
 D:\LocalCode\mattUtility\KnockoutJS-test\obj\Debug\KnockoutJS-test.csprojResolveAssemblyReference.cache
 D:\LocalCode\mattUtility\KnockoutJS-test\obj\Debug\KnockoutJS-test.dll
 D:\LocalCode\mattUtility\KnockoutJS-test\obj\Debug\KnockoutJS-test.pdb
+D:\LocalCode\mattUtility\KnockoutJS-test\bin\Newtonsoft.Json.dll
+D:\LocalCode\mattUtility\KnockoutJS-test\bin\System.Net.Http.Formatting.dll
+D:\LocalCode\mattUtility\KnockoutJS-test\bin\System.Web.Http.dll
+D:\LocalCode\mattUtility\KnockoutJS-test\bin\System.Web.Http.WebHost.dll
+D:\LocalCode\mattUtility\KnockoutJS-test\bin\Newtonsoft.Json.xml
+D:\LocalCode\mattUtility\KnockoutJS-test\bin\System.Net.Http.Formatting.xml
+D:\LocalCode\mattUtility\KnockoutJS-test\bin\System.Web.Http.xml
+D:\LocalCode\mattUtility\KnockoutJS-test\bin\System.Web.Http.WebHost.xml
